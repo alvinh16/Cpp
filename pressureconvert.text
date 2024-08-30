@@ -1,0 +1,22 @@
+Script started on 2024-06-27 12:17:42+08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[1m[7m%[27m[1m[0m                                                                                ]2;alvinh@hp7520:~/Documents/Cpp]1;~/Documents/Cpp]7;file://hp7520/home/alvinh/Documents/Cpp\[0m[27m[24m[J[36malvinh[00m@[33mhp7520:[32m/home/alvinh/Documents/Cpp[00m $ [K[?1h=[?2004h[0m[27m[24m[J[36malvinh[00m@[33mhp7520:[32m/home/alvinh/Documents/Cpp[00m [36mgit:(main*)[00m $ [K../pres.out[1m [0m[0m [?1l>[?2004l
+]2;./pres.out]1;./pres.outWould you like to convert from (b)ar or (p)si or (k)pa? 
+b
+
+Please give number of units 4
+4 bar is equivalent to 58.0151 psi or 400 kpa. 
+[1m[7m%[27m[1m[0m                                                                                ]2;alvinh@hp7520:~/Documents/Cpp]1;~/Documents/Cpp]7;file://hp7520/home/alvinh/Documents/Cpp\[0m[27m[24m[J[36malvinh[00m@[33mhp7520:[32m/home/alvinh/Documents/Cpp[00m [36mgit:(main*)[00m $ [K[?1h=[?2004h./pres.out[?1l>[?2004l
+]2;./pres.out]1;./pres.outWould you like to convert from (b)ar or (p)si or (k)pa? 
+6 b
+
+Please give number of units 6
+6 bar is equivalent to 87.0226 psi or 600 kpa. 
+[1m[7m%[27m[1m[0m                                                                                ]2;alvinh@hp7520:~/Documents/Cpp]1;~/Documents/Cpp]7;file://hp7520/home/alvinh/Documents/Cpp\[0m[27m[24m[J[36malvinh[00m@[33mhp7520:[32m/home/alvinh/Documents/Cpp[00m [36mgit:(main*)[00m $ [K[?1h=[?2004h./pres.out[?1l>[?2004l
+]2;./pres.out]1;./pres.outWould you like to convert from (b)ar or (p)si or (k)pa? 
+b
+
+Please give number of units 7
+7 bar is equivalent to 101.526 psi or 700 kpa. 
+[1m[7m%[27m[1m[0m                                                                                ]2;alvinh@hp7520:~/Documents/Cpp]1;~/Documents/Cpp]7;file://hp7520/home/alvinh/Documents/Cpp\[0m[27m[24m[J[36malvinh[00m@[33mhp7520:[32m/home/alvinh/Documents/Cpp[00m [36mgit:(main*)[00m $ [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on 2024-06-27 12:18:35+08:00 [COMMAND_EXIT_CODE="0"]
